@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 43afb9e9fc4f29d45b9ad368d2e0ab2a
+  productGUID: 7472308baa9dcce4aaa8068a51db202d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -836,7 +836,7 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: P4CordovaChris2DBeginnerAdventure
-  metroPackageVersion: 1.0.0.0
+  metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -844,7 +844,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: P4CordovaChris2DBeginnerAdventure
   wsaImages: {}
-  metroTileShortName: P4CordovaChris2DBeginnerAdventure
+  metroTileShortName: 
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -916,7 +916,7 @@ PlayerSettings:
   cloudProjectId: d2b9b2d6-72a2-43cb-95cb-55383982f400
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: P4CordovaChris2DBeginnerAdventure 2025-10-29_11-13-42
+  projectName: 
   organizationId: unity_757297
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
